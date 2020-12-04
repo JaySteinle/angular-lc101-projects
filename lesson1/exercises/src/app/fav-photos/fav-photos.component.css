@@ -3,9 +3,11 @@ h3 {
 }
 
 img {
-
+   width: 250px;
+   /* height: 100px; */
 }
 
 .photos {
    text-align: center;
+
 }
